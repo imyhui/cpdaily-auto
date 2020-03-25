@@ -24,3 +24,4 @@ $ crontab -e
 
 ## 参考
 [cpdaily_auto_signin](https://github.com/OrionAAAA/cpdaily_auto_signin)
+[cpdaily-api](https://github.com/jerryshell/cpdaily-api)
