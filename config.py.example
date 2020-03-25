@@ -1,0 +1,16 @@
+"""
+配置文件，请按照顺序依次操作
+"""
+# http://ehall.neuq.edu.cn/new/index.html 学工系统账号密码
+# 1. 设置登录学号
+username = '201xxxx'
+# 2. 设置登录密码
+password = 'your password'
+
+# http://api.map.baidu.com/lbsapi/getpoint/index.html 查询ip 及经纬度
+# 3. 经度
+longitude = 119.558501
+# 4. 维度
+latitude = 39.928848
+# 5. 地址
+position = "河北省秦皇岛市经济技术开发区泰山路143号"
